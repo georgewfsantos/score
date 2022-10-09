@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "score",
+    "slug": "score",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
